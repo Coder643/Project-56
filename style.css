@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: black;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
